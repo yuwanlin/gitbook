@@ -1,0 +1,29 @@
+{
+    "root": "./",
+    "title": "some regular",
+    "language" : "zh-hans",
+    "plugins": [
+        "-lunr", 
+        "-search",
+        "search-pro",
+        "disqus",
+        "advanced-emoji",
+        "emphasize",
+        "splitter",
+        "tbfed-pagefooter",
+        "toggle-chapters"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "discuss"
+        },
+        "sharing": {
+            "weibo": true
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy cvte.com 2017",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}

@@ -48,3 +48,7 @@
 - `gitbook serve`
 - 打开`localhost:4000`
 - 如果和github关联了，然后推送到github即可
+
+## 自定义
+新建一个`book.json`，可以高度定制自己想要的内容。
+相关链接参考 http://blog.csdn.net/zhangjk1993/article/details/50380403
