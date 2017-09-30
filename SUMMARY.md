@@ -12,7 +12,7 @@
 * [导航钩子](yi-ji-mu-lu-2/er-ji-mu-lu-1.md)
 
 ## api文档
-* [router-link]()
+* [router-link](http://www.baidu.com)
 - [router-view](er-ji-mu-lu-2.md)
 
 
