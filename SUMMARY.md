@@ -1,6 +1,6 @@
 # Summary
 
-## \* \[introduction\]\(http://www.baidu.com\)
+## \* \[introduction\]\([http://www.baidu.com](http://www.baidu.com\)\)
 
 ## 一级目录1
 
