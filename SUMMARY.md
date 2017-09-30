@@ -1,21 +1,16 @@
-
 # Summary
 
-* [introduction]()
+* [安装](introduce.md)
 
-## 基础
+## API
+* [API1](api1.md)
+* [API2](api2.md)
+* [API3](api3.md)
 
-* [开始](README.md)
-* [动态路由匹配](er-ji-mu-lu-1.md)
-* [嵌套路由](er-ji-mu-lu-2.md)
-* [编程式导航]()
+## 规范
+* [standard](standard1.md)
 
-## 进阶
-
-* [导航钩子](yi-ji-mu-lu-2/er-ji-mu-lu-1.md)
-
-## api文档
-* [router-link](http://www.baidu.com)
-- [router-view](er-ji-mu-lu-2.md)
+## 其它
+* [other](other1.md)
 
 
