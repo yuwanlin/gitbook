@@ -88,4 +88,13 @@
 :sweat_drops:
 :notes:
 
+## 查看该项目
+```
+git clone  https://github.com/yuwanlin/gitbook.git
+cd gitbook
+npm install
+git serve
+打开localhost:4000
+```
+
 
