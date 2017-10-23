@@ -15,7 +15,7 @@
 
 ## 从本地服务器启动
 - `npm install -g gitbook-cli`
-- 创建一个存放该书的目录`git init mybook`
+- 创建一个存放该书的目录`gitbook init mybook`
 - 目录中有`README.md`和`SUMMARY.md`（重要）文件(README.md默认和gitbook中的introduction关联)
 - 在`SUMMARY.md`编写文件结构(使用**markdown**语法)，如：
     ```

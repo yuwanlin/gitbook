@@ -93,7 +93,7 @@
 git clone  https://github.com/yuwanlin/gitbook.git
 cd gitbook
 npm install
-git serve
+gitbook serve
 打开localhost:4000
 ```
 
