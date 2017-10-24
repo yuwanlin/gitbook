@@ -6,7 +6,6 @@
         "-lunr", 
         "-search",
         "search-pro",
-        "disqus",
         "advanced-emoji",
         "emphasize",
         "splitter",
@@ -14,9 +13,6 @@
         "toggle-chapters"
     ],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "discuss"
-        },
         "sharing": {
             "weibo": true
         },
